@@ -1,2 +1,2 @@
 # Rockey
-This is an exercise
+This is an exercise : I like exercise
